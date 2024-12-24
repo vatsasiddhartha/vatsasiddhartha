@@ -1,6 +1,6 @@
 # Welcome to **The Architect**'s Workshop 🛠️
 
-![Profile Banner](https://drive.google.com/file/d/1sY8sQjF8UgLb7khdWixIB0HtPIkEFhCL/view?usp=drive_link)
+![Profile Banner](https://github.com/vatsasiddhartha/Assets/blob/main/github-header-image.png)
 
 ```diff
 + Coding the future, one repo at a time. +
