@@ -1,62 +1,58 @@
-# Welcome to **The Architect**'s Workshop 🛠️
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Siddhartha;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
 
-![Profile Banner](https://github.com/vatsasiddhartha/Assets/blob/main/github-header-image.png)
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Engineer specializing in backend development with Spring Boot, Java, Kotlin, and MySQL. I'm passionate about building efficient and scalable systems. I'm currently focused on backend APIs and cloud integration, and I love exploring new technologies in the realm of software engineering.</p>
+</div>
 
-```diff
-+ Coding the future, one repo at a time. +
-```
-
----
-
-### 🌟 Who is The Architect?
-> A coder who thrives in building impactful solutions—an artist, a thinker, and an engineer. While the identity remains secret, the work speaks volumes. 
-
----
-
-## 🛠️ Tech Arsenal
-```diff
-+ Languages: Kotlin | Java | Python
-+ Frameworks: Spring Boot | Jetpack Compose | Material Design
-+ Tools: IntelliJ IDEA | Android Studio | Git
-```
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
----
-
-## 🌌 Featured Projects
-
-> Explore repositories built to inspire:
-
-- **[DailyNews](https://github.com/vatsasiddhartha/DailyNews)**: A real-time news Android app integrating RESTful APIs and Firebase.
-- **[CodeMaster AI](https://github.com/vatsasiddhartha/CodeMasterAI)**: An Android app that uses Gemini API to enhance coding productivity with unique tools like prompt space and image search.
-
----
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <p>To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
+    <div align="center">
+      <a href="https://www.linkedin.com/in/vatsasiddhartha">
+        <img src="https://img.shields.io/badge/SiddharthaVatsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="https://linktr.ee/siddharthavatsa">
+        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+      </a>
+      <a href="https://github.com/vatsasiddhartha" target="_blank">
+        <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge" alt="Profile views" />
+    </div>
+</div>
 
 
-## 🎨 Unique Design: Radiant Aesthetics
-```diff
-+ Themes reminiscent of innovative coding.
-- Gradients and innovation in every commit.
-```
 
-## ⚡ Stats That Speak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsasiddhartha&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsasiddhartha&layout=compact&theme=gruvbox)
+<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<p>As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+</div>
 
----
+<h2 align="center" class="section-heading">🔧 Frameworks</h2>
+<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+</div>
 
-## 📬 Reach Out
-```diff
-+ 📧 vatsasiddhartha3@gmail.com
-+ 🌐 LinkedIn: [Hidden Genius](https://linkedin.com/in/yourprofile)
-```
+<h2 align="center" class="section-heading">💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=github_dark" alt="Siddhartha's GitHub Stats"/></td>   
+    </tr>
+ </table>
 
----
-
-**"Every masterpiece begins with a single commit."**
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=github_dark" alt="Siddhartha's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=github_dark&utcOffset=10" alt="Siddhartha's GitHub Stats"/>
+        </td>
+    </tr>
+ </table>
 
