@@ -1,6 +1,6 @@
 # Welcome to **The Architect**'s Workshop 🛠️
 
-![Profile Banner](C:\Users\vatsa\Downloads\github-header-image.png)
+![Profile Banner](https://drive.google.com/file/d/1sY8sQjF8UgLb7khdWixIB0HtPIkEFhCL/view?usp=drive_link)
 
 ```diff
 + Coding the future, one repo at a time. +
