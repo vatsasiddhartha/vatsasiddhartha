@@ -35,6 +35,9 @@
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🎨 Unique Design: Radiant Aesthetics
 ```diff
 + Themes reminiscent of innovative coding.
