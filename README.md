@@ -1,86 +1,145 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Siddhartha.;Welcome+to+the+Hawkins+Node.;This+is+my+Stranger+Things+GitHub." alt="Typing SVG"/>
-  </h1>
-  <p>
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Stranger Things Static GIF" width="700"/>
-  </p>
+
+<!-- 🔴 Stranger Things Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hey%2C+I’m+Siddhartha+Vatsa.;Welcome+to+My+Hawkins+Node.;Steve+%26+Dustin+Approved.">
+
+<!-- 🧢 Stranger Things Sticker -->
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="400" alt="Stranger Things Logo"/>
+
 </div>
 
 ---
 
+## 🔊 Stranger Things Theme
+
+> **🎧 Steve says:**  
+> *Plug in your headphones — Hawkins static on!*
+
+[![Play Stranger Things Theme](https://img.shields.io/badge/Play%20Theme-Stranger%20Things%20OST-red?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=-RcPZdihrp4)
+
+---
+
+## 🧢 Who Am I?
+
+> **Dustin:**  
+> Meet **Siddhartha Vatsa** — Spring Boot wizard, backend gatekeeper, Demogorgon bug hunter. Keeps your APIs safe from the Upside Down.
+
+---
+
+## 🎓 EDUCATION
+
+MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY
+🎓 Bachelor of Technology in Computer Science & Engineering
+📅 Aug 2021 – May 2025
+📊 8.17 CGPA
+
+yaml
+Copy
+Edit
+
+---
+
+## ⚙️ TECH TOOLKIT
+
+Languages: Java | Spring Boot | Bash | SQL | MySQL | Angular | Spring AI
+DevOps: Git | GitHub Actions | Docker | Kubernetes (Basics) | Jenkins (Basics) | AWS EC2 & S3 | Postman
+CI/CD & Monitoring: GitHub Actions | Jenkins Pipelines | Prometheus/Grafana (Basics)
+Other: REST APIs | Maven | Gradle | Linux | Agile | Problem Solving
+DSA: Solved 200+ Leetcode questions
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧩 EXPERIENCE
+
+ASSESSLI | Software Developer Trainee (Remote)
+📅 Oct 2024 – Nov 2024
+
+✅ Built Spring Boot REST APIs — 1,000+ requests/day at 99.9% uptime
+✅ Developed 3 backend features processing 50,000+ daily transactions
+✅ Optimized DB, reduced query time by 50% with indexing
+✅ Learned microservices, modularized user/data modules
+✅ Automated Postman tests, boosted dev speed by 30%
+✅ Secured APIs with Spring Security RBAC
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧪 PROJECTS
+
+📚 Course-App | REST API | Angular | Spring Boot | Docker | MySQL | JPA | JDBC
+→ Modular APIs for course management
+→ GitHub Actions CI/CD
+→ Dockerized backend, Postman tested
+
+🎓 Student Learning Tracker | REST API | Java | Spring Boot | MySQL | JPA | JDBC
+→ Tracks student progress in real-time
+→ SOLID code, 60% less redundancy
+
+🤖 AI-Powered Code Review Platform | Spring Boot | Spring AI | Gemini API
+→ Instant code feedback for 5+ languages
+→ Gemini API for contextual help
+→ Bootstrap + Thymeleaf UI
+→ <500ms average response
+→ Dockerized & CI/CD automated
+
+yaml
+Copy
+Edit
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <h2>🔦 Who Am I?</h2>
-  <p>
-    🧢 Just like Mike, Dustin, Lucas, and Eleven — I venture into the unknown daily.<br/>
-    I’m <strong>Siddhartha</strong>, a Backend Developer on the hunt for clean code and monstrous bugs.<br/>
-    My weapons? <code>Java</code>, <code>Kotlin</code>, <code>Spring Boot</code>, <code>MySQL</code>.<br/>
-    Current mission: Building robust APIs & taming cloud portals.
-  </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=tokyonight" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=tokyonight&utcOffset=10" alt="Productive Time"/>
+
 </div>
 
 ---
 
+## 🕹️ CONNECT — PORTALS TO HAWKINS HQ
+
 <div align="center">
-  <h2>🚪 Contact: Enter If You Dare</h2>
-  <p>
-    Open a portal, let’s connect — or stay in the dark. 🕸️
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/vatsasiddhartha">
-      <img src="https://img.shields.io/badge/LinkedIn-Join%20the%20Party-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://linktr.ee/siddharthavatsa">
-      <img src="https://img.shields.io/badge/Linktree-All%20My%20Portals-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
-    </a>
-    <a href="https://github.com/vatsasiddhartha">
-      <img src="https://img.shields.io/badge/GitHub-The%20Hawkins%20Lab-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Portals+Opened" alt="Profile views"/>
-  </p>
+
+<a href="https://www.linkedin.com/in/vatsasiddhartha">
+  <img src="https://img.shields.io/badge/LinkedIn-Hawkins%20Squad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://linktr.ee/siddharthavatsa">
+  <img src="https://img.shields.io/badge/Linktree-All%20Portals-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
+</a>
+<a href="https://github.com/vatsasiddhartha">
+  <img src="https://img.shields.io/badge/GitHub-Upside%20Down%20Hub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Portals+Opened"/>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>🧰 My Tools Against the Upside Down</h2>
-  <h3>👾 Languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-Demogorgon%20Slayer-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-Eleven's%20Mind%20Power-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  </p>
+## 📼 FINAL FILE — HAWKINS OUTRO
 
-  <h3>⚙️ Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Spring%20Boot-Hawkins%20Portal-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  </p>
-</div>
+███████╗██╗██████╗ ██████╗ ██╗ ██╗███╗ ██╗ █████╗ ████████╗██╗ ██╗ █████╗
+██╔════╝██║██╔══██╗██╔══██╗██║ ██║████╗ ██║██╔══██╗╚══██╔══╝██║ ██║██╔══██╗
+█████╗ ██║██████╔╝██████╔╝███████║██╔██╗ ██║███████║ ██║ ███████║███████║
+██╔══╝ ██║██╔══██╗██╔═══╝ ██╔══██║██║╚██╗██║██╔══██║ ██║ ██╔══██║██╔══██║
+██║ ██║██║ ██║██║ ██║ ██║██║ ╚████║██║ ██║ ██║ ██║ ██║██║ ██║
+╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝╚═╝ ╚═══╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝
 
----
+Friends don’t lie.
+Clean code doesn’t either.
+Steve & Dustin approve this README.
+Push to prod, nerd! 🚲🔴
 
-<div align="center">
-  <h2>📊 My Hawkins Activity</h2>
-  <p>
-    Here’s what happens when you code at 3 AM under flickering Christmas lights:
-  </p>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=tokyonight" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=tokyonight&utcOffset=10" alt="Productive Time"/>
-</div>
-
----
-
-<div align="center">
-  <h2>✨ Final Words</h2>
-  <p>
-    🔴 Friends Don’t Lie.<br/>
-    🔴 Code Doesn’t Either.<br/>
-    🔴 See You In The Upside Down.
-  </p>
-</div>
