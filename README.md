@@ -87,11 +87,11 @@
 <div align="center">
   <h2>📊 Hawkins Lab: GitHub Stats</h2>
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Profile Details" width="600"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=radical" alt="GitHub Profile Details" width="600"/>
   </p>
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Stats" width="300"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=tokyonight&utcOffset=10" alt="Productive Time" width="300"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=radical" alt="GitHub Stats" width="300"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=radical&utcOffset=10" alt="Productive Time" width="300"/>
   </p>
 </div>
 
