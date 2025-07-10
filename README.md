@@ -1,97 +1,72 @@
 <div align="center">
 
-<!-- 🔴 Stranger Things Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hey%2C+I’m+Siddhartha+Vatsa.;Welcome+to+My+Hawkins+Node.;Steve+%26+Dustin+Approved.">
+<!-- 🕷️ Mind Flayer GIF at the Top -->
+<img src="https://media.tenor.com/-t0pPOuUMGAAAAAC/mind-flayer-stranger-things-upside-down.gif" width="400" alt="Mind Flayer Upside Down">
 
-<!-- 🧢 Stranger Things Sticker -->
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="400" alt="Stranger Things Logo"/>
+<!-- Stranger Things Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&color=FF0000&center=true&vCenter=true&width=1000&lines=Hey%2C+I’m+Siddhartha+Vatsa.;Welcome+to+My+Hawkins+Hub.;Steve+%26+Dustin+Approved.">
 
 </div>
 
 ---
 
-## 🔊 Stranger Things Theme
+## 🧢 About Me
 
-> **🎧 Steve says:**  
-> *Plug in your headphones — Hawkins static on!*
+<img src="https://media.tenor.com/JGV8eK3op6sAAAAC/steve-harrington-stranger-things-stare.gif" width="300" alt="Steve Stare">
 
-[![Play Stranger Things Theme](https://img.shields.io/badge/Play%20Theme-Stranger%20Things%20OST-red?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=-RcPZdihrp4)
+Hey 👋 I’m **Siddhartha Vatsa** —  
+Backend Developer ⚙️ | Spring Boot lover | Java junkie | Upside Down bug hunter 🕷️
 
----
-
-## 🧢 Who Am I?
-
-> **Dustin:**  
-> Meet **Siddhartha Vatsa** — Spring Boot wizard, backend gatekeeper, Demogorgon bug hunter. Keeps your APIs safe from the Upside Down.
+I build solid REST APIs, scalable backend systems, and love tackling backend puzzles to keep your data safe from Demogorgons.
 
 ---
 
-## 🎓 EDUCATION
+## 🎓 Education
 
-MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY
-🎓 Bachelor of Technology in Computer Science & Engineering
-📅 Aug 2021 – May 2025
-📊 8.17 CGPA
-
-yaml
-Copy
-Edit
+**MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY**  
+📚 Bachelor of Technology, Computer Science & Engineering  
+📅 Aug 2021 – May 2025  
+📊 CGPA: 8.17
 
 ---
 
-## ⚙️ TECH TOOLKIT
+## ⚡ Skills
 
-Languages: Java | Spring Boot | Bash | SQL | MySQL | Angular | Spring AI
-DevOps: Git | GitHub Actions | Docker | Kubernetes (Basics) | Jenkins (Basics) | AWS EC2 & S3 | Postman
-CI/CD & Monitoring: GitHub Actions | Jenkins Pipelines | Prometheus/Grafana (Basics)
-Other: REST APIs | Maven | Gradle | Linux | Agile | Problem Solving
-DSA: Solved 200+ Leetcode questions
+**Languages & Frameworks:**  
+Java, Spring Boot, Kotlin, SQL, MySQL
 
-yaml
-Copy
-Edit
+**Other Skills:**  
+REST APIs, Bash, Linux basics, DSA (200+ LeetCode problems)
 
----
+**Version Control:**  
+Git, GitHub
 
-## 🧩 EXPERIENCE
-
-ASSESSLI | Software Developer Trainee (Remote)
-📅 Oct 2024 – Nov 2024
-
-✅ Built Spring Boot REST APIs — 1,000+ requests/day at 99.9% uptime
-✅ Developed 3 backend features processing 50,000+ daily transactions
-✅ Optimized DB, reduced query time by 50% with indexing
-✅ Learned microservices, modularized user/data modules
-✅ Automated Postman tests, boosted dev speed by 30%
-✅ Secured APIs with Spring Security RBAC
-
-yaml
-Copy
-Edit
+**Problem Solving:**  
+I love untangling tricky bugs & designing clean backend flows.
 
 ---
 
-## 🧪 PROJECTS
+## 🧩 Projects
 
-📚 Course-App | REST API | Angular | Spring Boot | Docker | MySQL | JPA | JDBC
-→ Modular APIs for course management
-→ GitHub Actions CI/CD
-→ Dockerized backend, Postman tested
+**📚 Course App API**  
+A simple REST API for managing courses.
 
-🎓 Student Learning Tracker | REST API | Java | Spring Boot | MySQL | JPA | JDBC
-→ Tracks student progress in real-time
-→ SOLID code, 60% less redundancy
+**🎓 Student Learning Tracker**  
+A REST API for tracking student progress.
 
-🤖 AI-Powered Code Review Platform | Spring Boot | Spring AI | Gemini API
-→ Instant code feedback for 5+ languages
-→ Gemini API for contextual help
-→ Bootstrap + Thymeleaf UI
-→ <500ms average response
-→ Dockerized & CI/CD automated
+**🤖 AI-Powered Code Review Platform**  
+A smart code review idea using Spring Boot & AI.
 
-yaml
-Copy
-Edit
+---
+
+## 🧪 Experience
+
+**Software Developer Trainee — Assessli (Remote)**  
+📅 Oct 2024 – Nov 2024  
+✔️ Developed REST APIs in Spring Boot  
+✔️ Optimized database queries  
+✔️ Improved backend performance  
+✔️ Collaborated with team on backend modules
 
 ---
 
@@ -109,37 +84,26 @@ Edit
 
 ---
 
-## 🕹️ CONNECT — PORTALS TO HAWKINS HQ
+## 🔗 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vatsasiddhartha">
-  <img src="https://img.shields.io/badge/LinkedIn-Hawkins%20Squad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://linktr.ee/siddharthavatsa">
-  <img src="https://img.shields.io/badge/Linktree-All%20Portals-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linktree-Links-green?style=for-the-badge&logo=Linktree&logoColor=white"/>
 </a>
 <a href="https://github.com/vatsasiddhartha">
-  <img src="https://img.shields.io/badge/GitHub-Upside%20Down%20Hub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Portals+Opened"/>
+<img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 📼 FINAL FILE — HAWKINS OUTRO
+<img src="https://media.tenor.com/oLT69OjZ0isAAAAC/thats-not-creepy-steve-harrington.gif" width="400" alt="That's Not Creepy Steve">
 
-███████╗██╗██████╗ ██████╗ ██╗ ██╗███╗ ██╗ █████╗ ████████╗██╗ ██╗ █████╗
-██╔════╝██║██╔══██╗██╔══██╗██║ ██║████╗ ██║██╔══██╗╚══██╔══╝██║ ██║██╔══██╗
-█████╗ ██║██████╔╝██████╔╝███████║██╔██╗ ██║███████║ ██║ ███████║███████║
-██╔══╝ ██║██╔══██╗██╔═══╝ ██╔══██║██║╚██╗██║██╔══██║ ██║ ██╔══██║██╔══██║
-██║ ██║██║ ██║██║ ██║ ██║██║ ╚████║██║ ██║ ██║ ██║ ██║██║ ██║
-╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝╚═╝ ╚═══╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚═╝
-
-Friends don’t lie.
-Clean code doesn’t either.
-Steve & Dustin approve this README.
-Push to prod, nerd! 🚲🔴
-
+---
 
