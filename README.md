@@ -1,87 +1,82 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Hello+There%2C+I'm+Siddhartha.;Welcome+to+the+Upside+Down.;Stranger+Things+GitHub+Realm." alt="Typing SVG"/>
-  </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=💀+Welcome+to+the+Upside+Down;🚨+Stranger+Things+Codebase;🔦+I+Am+Siddhartha+Vatsa;🕷️+Backend+Demon+Hunter" alt="Typing SVG"/>
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdjd3FmNHdjbXgybmdsdjdjZ2wyeXZtN21wdGxoOWI5OG1jc2NsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F1cehBDCMnsukCPUXo/giphy.gif" alt="Stranger Things GIF" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+  <h2>🧙‍♂️ Who's This Stranger?</h2>
   <p>
-    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Stranger Things GIF" width="500"/>
+    Hey 👋, I’m <strong>Siddhartha Vatsa</strong> — a Software Engineer from the Hawkins realm.<br>
+    I conjure robust backend APIs with <code>Spring Boot</code>, <code>Java</code>, and <code>Kotlin</code>, guard databases with <code>MySQL</code>, and love hunting bugs more than Demogorgons.<br>
+    Always exploring what lurks in the shadows — from microservices to cloud portals.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🧭 About Me: Enter If You Dare</h2>
+  <h2>🎓 Hawkins High Chronicles</h2>
   <p>
-    I'm <strong>Siddhartha Vatsa</strong> — a Software Engineer conjuring backend magic with <code>Spring Boot</code>, <code>Java</code>, <code>Kotlin</code>, and <code>MySQL</code>.<br>
-    Like the kids of Hawkins, I’m always hunting for the next big thing lurking in the dark corners of tech — APIs, cloud portals, and the occasional Demogorgon of bugs.
+    <strong>Maulana Abul Kalam Azad University of Technology</strong><br>
+    🎓 B.Tech in Computer Science & Engineering (2021–2025)<br>
+    📈 CGPA: 8.17
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🎓 Education: Surviving Hawkins High</h2>
+  <h2>🔧 Tools Against the Darkness</h2>
   <p>
-    <strong>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY</strong><br>
-    📚 B.Tech in Computer Science and Engineering (Aug 2021 – May 2025)<br>
-    📊 CGPA: 8.17
+    🛠️ <strong>Languages & Frameworks:</strong> Java, Spring Boot, Kotlin, Bash, SQL, MySQL<br>
+    🚀 <strong>DevOps Arsenal:</strong> Git, GitHub Actions, Docker, Jenkins (basics), Kubernetes (basics), AWS EC2 & S3, Postman<br>
+    🧩 <strong>Extra Spells:</strong> REST APIs, Maven, Gradle, Linux Shell, Agile, DSA (200+ Leetcode)
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>⚙️ Skills: My Arsenal Against the Upside Down</h2>
+  <h2>📂 Projects From the Upside Down</h2>
   <p>
-    <strong>Languages & Frameworks:</strong> Java, Spring Boot, Bash, SQL, MySQL, Kotlin<br>
-    <strong>DevOps Tools:</strong> Git, GitHub Actions, Docker, Jenkins (Basics), Kubernetes (Basics), AWS EC2 & S3, Postman<br>
-    <strong>CI/CD & Monitoring:</strong> GitHub Actions, Jenkins Pipelines, basic Prometheus/Grafana<br>
-    <strong>Others:</strong> REST APIs, Maven, Gradle, Linux Shell, Agile, DSA (200+ Leetcode)
+    <strong>📚 Course App API:</strong> REST API for course management using Spring Boot, Angular, Docker, MySQL.<br>
+    <strong>🎓 Student Learning Tracker:</strong> REST API tracking student milestones & dashboards.<br>
+    <strong>🤖 AI Code Review Platform:</strong> Spring Boot + Gemini AI to generate live code reviews & feedback.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🗂️ Experience: My Hawkins Missions</h2>
+  <h2>🗂️ Hawkins Missions: Experience</h2>
   <p>
     <strong>Software Developer Trainee — Assessli (Remote)</strong><br>
     🗓️ Oct 2024 – Nov 2024<br>
-    ✔️ Built RESTful Spring Boot APIs handling 1,000+ daily requests with 99.9% uptime<br>
-    ✔️ Engineered backend features processing 50,000+ transactions daily<br>
-    ✔️ Optimized large database queries (50% faster) and added indexing<br>
-    ✔️ Learned microservices & Spring Security for role-based API protection<br>
-    ✔️ Boosted dev speed by 30% using Postman test suites & CI checks
+    ✔️ Developed REST APIs (1,000+ daily requests, 99.9% uptime)<br>
+    ✔️ Optimized DB queries (50% faster)<br>
+    ✔️ Learned microservices & security configs<br>
+    ✔️ Automated testing & CI pipelines with Postman
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🔨 Notable Projects: Portals to the Unknown</h2>
-  <p>
-    📚 <strong>Course App API</strong> — REST API for course management with Spring Boot, Angular, Docker, MySQL.<br>
-    🧩 <strong>Student Learning Tracker</strong> — REST API to track milestones, apply SOLID principles.<br>
-    🤖 <strong>AI Code Review Platform</strong> — Spring Boot + Gemini API for AI-powered code review with <500ms responses.
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h2>📡 Find Me In The Shadow Realm</h2>
-  <p>
-    Connect with me through secret Hawkins channels — or face the Demogorgon alone!
-  </p>
+  <h2>📡 Contact: Call Me From Hawkins</h2>
   <p>
     <a href="https://www.linkedin.com/in/vatsasiddhartha">
-      <img src="https://img.shields.io/badge/LinkedIn-Hawkins%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Hawkins%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://linktr.ee/siddharthavatsa">
-      <img src="https://img.shields.io/badge/Linktree-Gateway%20To%20The%20Upside%20Down-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+      <img src="https://img.shields.io/badge/Linktree-Gateway%20To%20The%20Upside%20Down-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/>
     </a>
     <a href="https://github.com/vatsasiddhartha">
-      <img src="https://img.shields.io/badge/GitHub%20Realm-Shadow%20Repo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub%20Realm-Shadow%20Repo-24292F?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Visitors+from+the+Upside+Down" alt="Profile views"/>
   </p>
@@ -90,10 +85,7 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats: My Journey Through Hawkins</h2>
-  <p>
-    Witness my digital footprints — secrets, experiments, and late-night code rituals.
-  </p>
+  <h2>📊 Hawkins Lab: GitHub Stats</h2>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Profile Details" width="600"/>
   </p>
@@ -106,8 +98,6 @@
 ---
 
 <div align="center">
-  <h3>🔦 Stay Curious. Stay Brave. Stay Strange. 🧢</h3>
-  <p>
-    🔴 We Make Our Own Fate In The Upside Down 🔴
-  </p>
+  <h3>🔦 Stay Brave. Stay Strange. Keep Coding. ⚡</h3>
+  <p>👾 Don’t Close The Gate 👾</p>
 </div>
