@@ -1,58 +1,91 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Siddhartha;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+There%2C+I'm+Siddhartha.;Welcome+to+the+Upside+Down.;Stranger+Things+GitHub+Realm." alt="Typing SVG"/>
+  </h1>
+  <p>
+    <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Stranger Things GIF" width="600"/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🧭 About Me: Enter If You Dare</h2>
+  <p>
+    I'm <strong>Siddhartha</strong> — a Software Engineer ⚙️ conjuring backend magic with <code>Spring Boot</code>, <code>Java</code>, <code>Kotlin</code>, and <code>MySQL</code>.  
+    Like the kids of Hawkins, I’m always hunting for the next big thing lurking in the dark corners of tech — APIs, cloud portals, and the occasional Demogorgon of bugs.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📡 Find Me In The Shadow Realm</h2>
+  <p>
+    Connect with me through secret channels — or face the Demogorgon alone!
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/vatsasiddhartha">
+      <img src="https://img.shields.io/badge/LinkedIn-Hawkins%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://linktr.ee/siddharthavatsa">
+      <img src="https://img.shields.io/badge/Linktree-Gateway%20To%20The%20Upside%20Down-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+    </a>
+    <a href="https://github.com/vatsasiddhartha">
+      <img src="https://img.shields.io/badge/GitHub%20Realm-Shadow%20Repo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge&label=Visitors+from+the+Upside+Down" alt="Profile views"/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🧙‍♂️ Languages I Use To Battle The Unknown</h2>
+  <p>
+    My arsenal for coding battles against the Mind Flayer:
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-Dark%20Dimension-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-Upside%20Down-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🔮 Frameworks: My Mystic Tools</h2>
+  <p>
+    Taming the darkness with:
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Spring%20Boot-Green%20Portal-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats: My Journey Through Hawkins</h2>
+  <p>
+    Witness my digital footprints — secrets, experiments, and late-night code rituals.
+  </p>
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineer specializing in backend development with Spring Boot, Java, Kotlin, and MySQL. I'm passionate about building efficient and scalable systems. I'm currently focused on backend APIs and cloud integration, and I love exploring new technologies in the realm of software engineering.</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Profile Details"/>
 </div>
 
 <div align="center">
-    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-    <p>To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
-    <div align="center">
-      <a href="https://www.linkedin.com/in/vatsasiddhartha">
-        <img src="https://img.shields.io/badge/SiddharthaVatsa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="https://linktr.ee/siddharthavatsa">
-        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
-      </a>
-      <a href="https://github.com/vatsasiddhartha" target="_blank">
-        <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=vatsasiddhartha&style=for-the-badge" alt="Profile views" />
-    </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=tokyonight&utcOffset=10" alt="Productive Time"/>
 </div>
 
+---
 
-
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p>As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <h3>🔦 Stay Curious. Stay Brave. Stay Strange. 🧢</h3>
+  <p>
+    🔴 We Make Our Own Fate In The Upside Down 🔴
+  </p>
 </div>
-
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-</div>
-
-<h2 align="center" class="section-heading">💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsasiddhartha&theme=github_dark" alt="Siddhartha's GitHub Stats"/></td>   
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsasiddhartha&theme=github_dark" alt="Siddhartha's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsasiddhartha&theme=github_dark&utcOffset=10" alt="Siddhartha's GitHub Stats"/>
-        </td>
-    </tr>
- </table>
-
