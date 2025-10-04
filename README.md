@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=💀+Welcome+to+the+Upside+Down;🚨+Stranger+Things+Codebase;🔦+I+Am+Siddhartha+Vatsa;🕷️+Backend+Demon+Hunter" alt="Typing SVG"/>
 
-<img src="https://in.pinterest.com/pin/298715387805327937/" alt="Stranger Things GIF" width="500"/>
+
+
+<img src="https://github.com/user-attachments/assets/443e8dd8-1f79-4ec3-a8d6-edb6f582f39f" alt="Stranger Things GIF" width="500"/>
 
 </div>
 
